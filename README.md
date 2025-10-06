@@ -94,6 +94,11 @@ risk of interfering with the robot.
 6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
 
 
-### Results of simulation 
+### SIMULATION :
+![k7](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/119559663/6005444a-d0a8-4ede-b3f3-b97f10001702)
+![k8](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/119559663/c38d40bb-c9b6-4317-a918-568886d2ee90)
+![k9](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/119559663/74656d14-dd23-4953-a413-7f51dc9d44a6)
 
+### RESULT :
+An environment for welding operation using robodk is Designed & simulated.
 
